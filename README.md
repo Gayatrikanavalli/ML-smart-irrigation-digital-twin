@@ -1,0 +1,46 @@
+# ML Smart Irrigation Digital Twin
+
+## Overview
+ML Smart Irrigation Digital Twin is a web-based application that helps monitor irrigation conditions and provides intelligent irrigation predictions using Machine Learning.
+
+## Features
+- Smart irrigation prediction
+- Interactive Streamlit dashboard
+- FastAPI backend
+- Dataset generation
+- Machine learning model training
+
+## Technologies Used
+- Python
+- Streamlit
+- FastAPI
+
+## Project Structure
+- `app.py` - FastAPI backend
+- `dashboard.py` - Streamlit dashboard
+- `train_model.py` - Machine learning model training
+- `generate_dataset.py` - Dataset generation
+
+## How to Run
+
+### Start the FastAPI backend
+
+```bash
+python app.py
+```
+
+Open:
+
+```
+http://localhost:8000/docs
+```
+
+### Start the Streamlit dashboard
+
+```bash
+streamlit run dashboard.py
+```
+
+## Author
+
+Gayatri Kanavalli
