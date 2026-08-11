@@ -12,7 +12,7 @@ ML Smart Irrigation Digital Twin is a web-based application that helps monitor i
 
 ## Technologies Used
 - Python
-- Streamlit
+- Streamlit 
 - FastAPI
 
 ## Project Structure
