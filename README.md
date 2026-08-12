@@ -23,7 +23,7 @@ ML Smart Irrigation Digital Twin is a web-based application that helps monitor i
 
 ## How to Run
 
-### Start the FastAPI backend
+### Start the FASTAPI Backend
 
 ```bash
 python app.py
