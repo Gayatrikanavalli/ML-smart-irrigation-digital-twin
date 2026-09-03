@@ -35,7 +35,7 @@ Open:
 http://localhost:8000/docs
 ```
 
-### Start the Streamlit dashboard  Frontend
+### Start the Streamlit dashboard  Frotend
 
 ```bash
 streamlit run dashboard.py
